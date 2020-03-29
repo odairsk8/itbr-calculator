@@ -1,6 +1,6 @@
 ## ITBR Calculator
 
-Open source project create by the ITBR community. 
+Open source project created by the ITBR community. 
 
 This project aims to provide a tool for the community to calculate points based on the Australian Migration System.
 
