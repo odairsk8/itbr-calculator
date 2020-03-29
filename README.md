@@ -18,6 +18,11 @@ This project aims to provide a tool for the community to calculate points based 
 - Project created with Create React App (https://create-react-app.dev/docs/getting-started/)
 ### Material-ui
 - https://material-ui.com/
+### gh-pages for deployment to repo gitpage
+- https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+### Docker
+Docker deployment support
+
 
 ## Changelog
 | Change        | Developer     | Pull Request  |
