@@ -21,8 +21,7 @@ This project aims to provide a tool for the community to calculate points based 
 ### gh-pages for deployment to repo gitpage
 - https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 ### Docker
-Docker deployment support
-
+- Docker deployment support
 
 ## Changelog
 | Change        | Developer     | Pull Request  |
