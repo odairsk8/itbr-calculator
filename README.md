@@ -9,7 +9,7 @@ This project aims to provide a tool for the community to calculate points based 
 - Send an email to odairsk8@hotmail.com or get in touch via Whatsapp, you will be given acess to the backlog.
 - Choose one task from the backlog, express you interest in developing that task and it will be assigned to you.
 - Developers are free to create their own solutions, however, are encouraged to discuss the solution with the community first. 
-- When the feature is ready submit a PR (Pull Request) to this branch.
+- When the feature is ready submit a PR (Pull Request) to the develop branch: https://github.com/Odair15Below/itbr-calculator/tree/develop.
 - The PR will be reviewed, and once approved will be merged into the calculator branch.
 - After your PR is merged you will be given the credits and your PR added to the calculator changelog with your name on it.
 
